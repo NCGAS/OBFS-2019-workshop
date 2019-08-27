@@ -1,5 +1,5 @@
 # OBFS-2019-workshop-
-OBFS 2019 - Determining the data and cyberinfrastructure needs of modern FSMLS
+OBFS 2019 - Determining the data and cyberinfrastructure needs of modern Field Stations and Marine Laboratories (FSMLs)
 
 **Dates** – Sept 10th, 2019 \
 **Times** - 9am - 1pm \
