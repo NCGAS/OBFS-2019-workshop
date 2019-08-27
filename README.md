@@ -3,7 +3,7 @@ OBFS 2019 - Determining the data and cyberinfrastructure needs of modern FSMLS
 
 **Dates** – Sept 10th, 2019 \
 **Times** - 9am - 1pm \
-**Location** – OBFS 2019 meeting, Belgium
+**Location** – OBFS 2019 meeting, Belgium \
 **Workshop page** - https://www.uhasselt.be/UH/OBFS/Education/W-Determining-the-Data-and-Cyberinfrastructure-Needs-of-Modern-FSMLs
 
 ## Workshop Description
@@ -13,19 +13,21 @@ Field stations are excellent sources of long-term ecological data, but making th
 Field stations with data in-house, that are facing data and cyberinfrastructure challenges
 
 ## Tentative workshop schedule 
-|  Time             | Discussion topics |
-| 9:00 - 9:30 am    | Open remarks      |
-| 9:30 - 9:45 am    | Summary of 2017/2019 Problems identified from the OBFS Survey |
-| 9:45 - 10:00 am   | COFFEE BREAK     |
-| 10:00 - 10:05 am  | Small Group Discusion Setup |
-| 10:05 - 10:30 am  | Needs of Field Stations - Small group discussions |
-| 10:30 - 10:40 am  | Share and Synthesis |
-| 10:45 - 11:15 am  | Solutions/Success/Sticking Points - Small group discussions |
-| 11:15 - 11:25 am  | Share and Synthesis |
-| 11:25 - 11:40 am  | BREAK               |
-| 11:40 - 12:20 pm  | Action Items- Small group discussions |
-| 12:20 - 12:30 pm  | Share and Synthesis |
-| 12:30 - 1:00 pm   | Final outcome/Synthesis |
+|  **Time**             | **Discussion topics**                                      |
+|-----------------------|:----------------------------------------------------------:|
+| 9:00 - 9:30 am        | Open remarks                                               | 
+| 9:30 - 9:45 am        | Summary of 2017/2019 Problems identified from the OBFS Survey|
+| 9:45 - 10:00 am       | COFFEE BREAK                                                |
+| 10:00 - 10:05 am      | Small Group Discusion Setup                                 |
+| 10:05 - 10:30 am      | Needs of Field Stations - Small group discussions           |
+| 10:30 - 10:40 am      | Share and Synthesis                                         |
+| 10:45 - 11:15 am      | Solutions/Success/Sticking Points - Small group discussions |
+| 11:15 - 11:25 am      | Share and Synthesis                                         |
+| 11:25 - 11:40 am      | BREAK                                                       | 
+| 11:40 - 12:20 pm      | Action Items- Small group discussions                       |
+| 12:20 - 12:30 pm      | Share and Synthesis                                         |
+| 12:30 - 1:00 pm       | Final outcome/Synthesis                                     |
+|                       |                                                             |
 
 ## Contact
 Email us at help@ncgas.org  \
